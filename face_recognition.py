@@ -5,7 +5,7 @@ import time
 import STESDK
 import cv2
 import numpy as np
-from STESDK import FaceDetector, FaceTracker, LiveVerification, FaceAligner, FaceExtractor
+from STESDK import FaceDetector, FaceTracker, LiveVerification, FaceAligner,  FaceExtractor
 
 
 # 定义一个人脸特征提取函数
